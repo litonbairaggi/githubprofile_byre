@@ -1,0 +1,12 @@
+.thumbnail {
+    width: 100%;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+}
+
+.panel-body {
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: inset 0px -2px 7px 2px #e8e8e8, inset -1px -3px 2px 1px #fff;
+}
