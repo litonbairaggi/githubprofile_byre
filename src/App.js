@@ -1,14 +1,15 @@
 import logo from './logo.jpg';
 import './App.css';
 import Profile from './components/Profile';
+import Header from './components/Header';
 
 
 function App() {
   return (
     <div className="App">
-      <h1>Github</h1>
       <div className="container">
-      <Profile />
+        <Header />
+        <Profile />
       </div>
     </div>
   );
