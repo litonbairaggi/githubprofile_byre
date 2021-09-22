@@ -10,3 +10,7 @@
     background: #ffffff;
     box-shadow: inset 0px -2px 7px 2px #e8e8e8, inset -1px -3px 2px 1px #fff;
 }
+
+.panel-title {
+    font-size: 18px;
+}
